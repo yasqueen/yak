@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Twilio Client Quickstart</title>
+  <link rel="stylesheet" href="/static/site.css">
+</head>
+<body>
+  
+  <div id="controls">
+    {% for rep in reps %}
+    <p class="instructions">Make a Call to {{rep['name']}}</p>
+    <img style="height:275px;width:225px;" src="{{rep['image']}}"></img>
+    <div id="call-controls">
+      <a href="tel:{{rep['phone']}}">{{rep['phone']}}</a>
+      <input id="phone-number" type="text" placeholder="Enter a phone # or client name" />
+      <button id="button-call">Call</button>
+      <button id="button-hangup">Hangup</button>
+    </div>
+    {% endfor %}
+        <div id="info">
+      <p class="instructions">Twilio Client</p>
+      <div id="client-name"></div>
+    </div>
+    <div id="log"></div>
+  </div>
+
+  <script type="text/javascript" src="//media.twiliocdn.com/sdk/js/client/v1.3/twilio.min.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+  <script src="/static/quickstart.js"></script>
+</body>
+</html>
