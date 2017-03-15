@@ -29,19 +29,6 @@
         document.getElementById('button-hangup').style.display = 'none';
       });
 
-      Twilio.Device.incoming(function (conn) {
-        log('Incoming connection from ' + conn.parameters.From);
-        var archEnemyPhoneNumber = '+12099517118';
-
-        if (conn.parameters.From === archEnemyPhoneNumber) {
-          conn.reject();
-          log('It\'s your nemesis. Rejected call.');
-        } else {
-          // accept the incoming connection and start two-way audio
-          conn.accept();
-        }
-      });
-
       setClientNameUI(data.identity);
     })
     .fail(function () {
@@ -52,7 +39,7 @@
   document.getElementById('button-call').onclick = function () {
     // get the phone number to connect the call to
     var params = {
-      To: document.getElementById('phone-number').value
+      To: document.getElementById('input-phone').value
     };
 
     console.log('Calling ' + params.To + '...');

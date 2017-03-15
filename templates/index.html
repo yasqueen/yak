@@ -2,25 +2,28 @@
 <html>
 <head>
   <title>Call Your Rep!</title>
-  <link rel="stylesheet" href="/static/style.css">
+  <link rel="stylesheet" href="https://raw.githubusercontent.com/yasqueen/yak/master/static/style.css">
 </head>
 <body>
 
-  <h3>State: {{reps[0]['state']}}</h3>
+  <div id="state">State: {{reps[0]['state']}}</div>
   
   <div id="controls">
     {% for rep in reps %}
-    <p class="instructions">{{rep['name']}}</p>
+    <div class="type">{{rep['type']}} </div>
+    <div class="name">{{rep['name']}} </div>
+    <div class="party">{{rep['party']}} </div>
     <img style="height:275px;width:225px;" src="https://theunitedstates.io/images/congress/225x275/{{rep['bioguide_id']}}.jpg"></img>
     <div id="call-controls">
-      <a href="tel:{{rep['phone']}}">{{rep['phone']}}</a>
-      <input id="phone-number" type="text" placeholder="Enter a phone # or client name" />
+      <a class="phone" href="tel:{{rep['phone']}}">{{rep['phone']}}</a>
+      <input id="input-phone" type="text" placeholder="Enter a phone # or client name" />
       <button id="button-call">Call</button>
       <button id="button-hangup">Hangup</button>
     </div>
+    <br>
     {% endfor %}
         <div id="info">
-      <p class="instructions">Twilio Client</p>
+      <p class="instructions">Client</p>
       <div id="client-name"></div>
     </div>
     <div id="log"></div>
@@ -28,6 +31,6 @@
 
   <script type="text/javascript" src="//media.twiliocdn.com/sdk/js/client/v1.3/twilio.min.js"></script>
   <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
-  <script src="/static/script.js"></script>
+  <script src="https://raw.githubusercontent.com/yasqueen/yak/master/static/script.js"></script>
 </body>
 </html>
