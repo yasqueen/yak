@@ -52,17 +52,19 @@ def token():
 @app.route("/voice", methods=['POST'])
 def voice():
     resp = twilio.twiml.Response()
-    if "To" in request.form and request.form["To"] != '' and request.form["To"] in models.phones:
-        dial = resp.dial(callerId=os.environ['TWILIO_CALLER_ID'])
-        # wrap the phone number or client name in the appropriate TwiML verb
-        # by checking if the number given has only digits and format symbols
-        if phone_pattern.match(request.form["To"]):
-            dial.number(request.form["To"])
-        else:
-            dial.client(request.form["To"])
+    if clean_phone(request.form["To"]) not in models.phones:
+        resp.say("Incorrect phone number")
     else:
-        resp.say("Thanks for calling!")
-
+        if "To" in request.form and request.form["To"] != '':
+            dial = resp.dial(callerId=os.environ['TWILIO_CALLER_ID'])
+            # wrap the phone number or client name in the appropriate TwiML verb
+            # by checking if the number given has only digits and format symbols
+            if phone_pattern.match(request.form["To"]):
+                dial.number(request.form["To"])
+            else:
+                dial.client(request.form["To"])
+        else:
+            resp.say("Thanks for calling!")
     return Response(str(resp), mimetype='text/xml')
 
 
