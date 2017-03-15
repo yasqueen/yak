@@ -52,7 +52,7 @@ def token():
 @app.route("/voice", methods=['POST'])
 def voice():
     resp = twilio.twiml.Response()
-    if clean_phone(request.form["To"]) not in models.phones:
+    if models.clean_phone(request.form["To"]) not in models.phones:
         resp.say("Incorrect phone number")
     else:
         if "To" in request.form and request.form["To"] != '':

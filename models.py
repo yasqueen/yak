@@ -2,10 +2,10 @@ import json
 
 states = {}
 phones = set()
-phones.add(u'3148274356')
+phones.add(clean_phone(u'3148274356'))
 
 def clean_phone(input):
-	input.replace('-','')
+	input.replace('-','').replace('+','')[-10:]
 
 with open('./data/legislators.json') as f:
 	for line in f:
