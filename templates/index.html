@@ -5,11 +5,13 @@
   <link rel="stylesheet" href="/static/site.css">
 </head>
 <body>
+
+  <h3>State: {{reps[0]['state']}}</h3>
   
   <div id="controls">
     {% for rep in reps %}
-    <p class="instructions">Make a Call to {{rep['name']}}</p>
-    <img style="height:275px;width:225px;" src="{{rep['image']}}"></img>
+    <p class="instructions">{{rep['name']}}</p>
+    <img style="height:275px;width:225px;" src="https://theunitedstates.io/images/congress/225x275/{{rep['bioguide_id']}}.jpg"></img>
     <div id="call-controls">
       <a href="tel:{{rep['phone']}}">{{rep['phone']}}</a>
       <input id="phone-number" type="text" placeholder="Enter a phone # or client name" />

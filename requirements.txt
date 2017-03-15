@@ -3,3 +3,4 @@ twilio==5.4.0
 fake-factory==0.5.3
 requests==2.13.0
 uwsgi
+yaml==3.12

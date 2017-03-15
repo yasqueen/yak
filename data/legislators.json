@@ -1,0 +1,536 @@
+{"name": "Sherrod Brown", "phone": "202-224-2315", "bioguide_id": "B000944", "state": "OH", "party": "Democrat", "type": "sen"}
+{"name": "Maria Cantwell", "phone": "202-224-3441", "bioguide_id": "C000127", "state": "WA", "party": "Democrat", "type": "sen"}
+{"name": "Benjamin L. Cardin", "phone": "202-224-4524", "bioguide_id": "C000141", "state": "MD", "party": "Democrat", "type": "sen"}
+{"name": "Thomas R. Carper", "phone": "202-224-2441", "bioguide_id": "C000174", "state": "DE", "party": "Democrat", "type": "sen"}
+{"name": "Robert P. Casey, Jr.", "phone": "202-224-6324", "bioguide_id": "C001070", "state": "PA", "party": "Democrat", "type": "sen"}
+{"name": "Bob Corker", "phone": "202-224-3344", "bioguide_id": "C001071", "state": "TN", "party": "Republican", "type": "sen"}
+{"name": "Dianne Feinstein", "phone": "202-224-3841", "bioguide_id": "F000062", "state": "CA", "party": "Democrat", "type": "sen"}
+{"name": "Orrin G. Hatch", "phone": "202-224-5251", "bioguide_id": "H000338", "state": "UT", "party": "Republican", "type": "sen"}
+{"name": "Amy Klobuchar", "phone": "202-224-3244", "bioguide_id": "K000367", "state": "MN", "party": "Democrat", "type": "sen"}
+{"name": "Claire McCaskill", "phone": "202-224-6154", "bioguide_id": "M001170", "state": "MO", "party": "Democrat", "type": "sen"}
+{"name": "Robert Menendez", "phone": "202-224-4744", "bioguide_id": "M000639", "state": "NJ", "party": "Democrat", "type": "sen"}
+{"name": "Bill Nelson", "phone": "202-224-5274", "bioguide_id": "N000032", "state": "FL", "party": "Democrat", "type": "sen"}
+{"name": "Bernard Sanders", "phone": "202-224-5141", "bioguide_id": "S000033", "state": "VT", "party": "Independent", "type": "sen"}
+{"name": "Debbie Stabenow", "phone": "202-224-4822", "bioguide_id": "S000770", "state": "MI", "party": "Democrat", "type": "sen"}
+{"name": "Jon Tester", "phone": "202-224-2644", "bioguide_id": "T000464", "state": "MT", "party": "Democrat", "type": "sen"}
+{"name": "Sheldon Whitehouse", "phone": "202-224-2921", "bioguide_id": "W000802", "state": "RI", "party": "Democrat", "type": "sen"}
+{"name": "John Barrasso", "phone": "202-224-6441", "bioguide_id": "B001261", "state": "WY", "party": "Republican", "type": "sen"}
+{"name": "Roger F. Wicker", "phone": "202-224-6253", "bioguide_id": "W000437", "state": "MS", "party": "Republican", "type": "sen"}
+{"name": "Lamar Alexander", "phone": "202-224-4944", "bioguide_id": "A000360", "state": "TN", "party": "Republican", "type": "sen"}
+{"name": "Thad Cochran", "phone": "202-224-5054", "bioguide_id": "C000567", "state": "MS", "party": "Republican", "type": "sen"}
+{"name": "Susan M. Collins", "phone": "202-224-2523", "bioguide_id": "C001035", "state": "ME", "party": "Republican", "type": "sen"}
+{"name": "John Cornyn", "phone": "202-224-2934", "bioguide_id": "C001056", "state": "TX", "party": "Republican", "type": "sen"}
+{"name": "Richard J. Durbin", "phone": "202-224-2152", "bioguide_id": "D000563", "state": "IL", "party": "Democrat", "type": "sen"}
+{"name": "Michael B. Enzi", "phone": "202-224-3424", "bioguide_id": "E000285", "state": "WY", "party": "Republican", "type": "sen"}
+{"name": "Lindsey Graham", "phone": "202-224-5972", "bioguide_id": "G000359", "state": "SC", "party": "Republican", "type": "sen"}
+{"name": "James M. Inhofe", "phone": "202-224-4721", "bioguide_id": "I000024", "state": "OK", "party": "Republican", "type": "sen"}
+{"name": "Mitch McConnell", "phone": "202-224-2541", "bioguide_id": "M000355", "state": "KY", "party": "Republican", "type": "sen"}
+{"name": "Jeff Merkley", "phone": "202-224-3753", "bioguide_id": "M001176", "state": "OR", "party": "Democrat", "type": "sen"}
+{"name": "Jack Reed", "phone": "202-224-4642", "bioguide_id": "R000122", "state": "RI", "party": "Democrat", "type": "sen"}
+{"name": "James E. Risch", "phone": "202-224-2752", "bioguide_id": "R000584", "state": "ID", "party": "Republican", "type": "sen"}
+{"name": "Pat Roberts", "phone": "202-224-4774", "bioguide_id": "R000307", "state": "KS", "party": "Republican", "type": "sen"}
+{"name": "Jeanne Shaheen", "phone": "202-224-2841", "bioguide_id": "S001181", "state": "NH", "party": "Democrat", "type": "sen"}
+{"name": "Tom Udall", "phone": "202-224-6621", "bioguide_id": "U000039", "state": "NM", "party": "Democrat", "type": "sen"}
+{"name": "Mark R. Warner", "phone": "202-224-2023", "bioguide_id": "W000805", "state": "VA", "party": "Democrat", "type": "sen"}
+{"name": "Kirsten E. Gillibrand", "phone": "202-224-4451", "bioguide_id": "G000555", "state": "NY", "party": "Democrat", "type": "sen"}
+{"name": "Al Franken", "phone": "202-224-5641", "bioguide_id": "F000457", "state": "MN", "party": "Democrat", "type": "sen"}
+{"name": "Christopher A. Coons", "phone": "202-224-5042", "bioguide_id": "C001088", "state": "DE", "party": "Democrat", "type": "sen"}
+{"name": "Joe Manchin, III", "phone": "202-224-3954", "bioguide_id": "M001183", "state": "WV", "party": "Democrat", "type": "sen"}
+{"name": "Robert B. Aderholt", "phone": "202-225-4876", "bioguide_id": "A000055", "state": "AL", "party": "Republican", "type": "rep"}
+{"name": "Justin Amash", "phone": "202-225-3831", "bioguide_id": "A000367", "state": "MI", "party": "Republican", "type": "rep"}
+{"name": "Tammy Baldwin", "phone": "202-224-5653", "bioguide_id": "B001230", "state": "WI", "party": "Democrat", "type": "sen"}
+{"name": "Lou Barletta", "phone": "202-225-6511", "bioguide_id": "B001269", "state": "PA", "party": "Republican", "type": "rep"}
+{"name": "Joe Barton", "phone": "202-225-2002", "bioguide_id": "B000213", "state": "TX", "party": "Republican", "type": "rep"}
+{"name": "Karen Bass", "phone": "202-225-7084", "bioguide_id": "B001270", "state": "CA", "party": "Democrat", "type": "rep"}
+{"name": "Michael F. Bennet", "phone": "202-224-5852", "bioguide_id": "B001267", "state": "CO", "party": "Democrat", "type": "sen"}
+{"name": "Gus M. Bilirakis", "phone": "202-225-5755", "bioguide_id": "B001257", "state": "FL", "party": "Republican", "type": "rep"}
+{"name": "Rob Bishop", "phone": "202-225-0453", "bioguide_id": "B001250", "state": "UT", "party": "Republican", "type": "rep"}
+{"name": "Sanford D. Bishop, Jr.", "phone": "202-225-3631", "bioguide_id": "B000490", "state": "GA", "party": "Democrat", "type": "rep"}
+{"name": "Diane Black", "phone": "202-225-4231", "bioguide_id": "B001273", "state": "TN", "party": "Republican", "type": "rep"}
+{"name": "Marsha Blackburn", "phone": "202-225-2811", "bioguide_id": "B001243", "state": "TN", "party": "Republican", "type": "rep"}
+{"name": "Earl Blumenauer", "phone": "202-225-4811", "bioguide_id": "B000574", "state": "OR", "party": "Democrat", "type": "rep"}
+{"name": "Richard Blumenthal", "phone": "202-224-2823", "bioguide_id": "B001277", "state": "CT", "party": "Democrat", "type": "sen"}
+{"name": "Roy Blunt", "phone": "202-224-5721", "bioguide_id": "B000575", "state": "MO", "party": "Republican", "type": "sen"}
+{"name": "John Boozman", "phone": "202-224-4843", "bioguide_id": "B001236", "state": "AR", "party": "Republican", "type": "sen"}
+{"name": "Madeleine Z. Bordallo", "phone": "202-225-1188", "bioguide_id": "B001245", "state": "GU", "party": "Democrat", "type": "rep"}
+{"name": "Kevin Brady", "phone": "202-225-4901", "bioguide_id": "B000755", "state": "TX", "party": "Republican", "type": "rep"}
+{"name": "Robert A. Brady", "phone": "202-225-4731", "bioguide_id": "B001227", "state": "PA", "party": "Democrat", "type": "rep"}
+{"name": "Mo Brooks", "phone": "202-225-4801", "bioguide_id": "B001274", "state": "AL", "party": "Republican", "type": "rep"}
+{"name": "Vern Buchanan", "phone": "202-225-5015", "bioguide_id": "B001260", "state": "FL", "party": "Republican", "type": "rep"}
+{"name": "Larry Bucshon", "phone": "202-225-4636", "bioguide_id": "B001275", "state": "IN", "party": "Republican", "type": "rep"}
+{"name": "Michael C. Burgess", "phone": "202-225-7772", "bioguide_id": "B001248", "state": "TX", "party": "Republican", "type": "rep"}
+{"name": "Richard Burr", "phone": "202-224-3154", "bioguide_id": "B001135", "state": "NC", "party": "Republican", "type": "sen"}
+{"name": "G. K. Butterfield", "phone": "202-225-3101", "bioguide_id": "B001251", "state": "NC", "party": "Democrat", "type": "rep"}
+{"name": "Ken Calvert", "phone": "202-225-1986", "bioguide_id": "C000059", "state": "CA", "party": "Republican", "type": "rep"}
+{"name": "Shelley Moore Capito", "phone": "202-224-6472", "bioguide_id": "C001047", "state": "WV", "party": "Republican", "type": "sen"}
+{"name": "Michael E. Capuano", "phone": "202-225-5111", "bioguide_id": "C001037", "state": "MA", "party": "Democrat", "type": "rep"}
+{"name": "Andr\u00e9 Carson", "phone": "202-225-4011", "bioguide_id": "C001072", "state": "IN", "party": "Democrat", "type": "rep"}
+{"name": "John R. Carter", "phone": "202-225-3864", "bioguide_id": "C001051", "state": "TX", "party": "Republican", "type": "rep"}
+{"name": "Bill Cassidy", "phone": "202-224-5824", "bioguide_id": "C001075", "state": "LA", "party": "Republican", "type": "sen"}
+{"name": "Kathy Castor", "phone": "202-225-3376", "bioguide_id": "C001066", "state": "FL", "party": "Democrat", "type": "rep"}
+{"name": "Steve Chabot", "phone": "202-225-2216", "bioguide_id": "C000266", "state": "OH", "party": "Republican", "type": "rep"}
+{"name": "Jason Chaffetz", "phone": "202-225-7751", "bioguide_id": "C001076", "state": "UT", "party": "Republican", "type": "rep"}
+{"name": "Judy Chu", "phone": "202-225-5464", "bioguide_id": "C001080", "state": "CA", "party": "Democrat", "type": "rep"}
+{"name": "David N. Cicilline", "phone": "202-225-4911", "bioguide_id": "C001084", "state": "RI", "party": "Democrat", "type": "rep"}
+{"name": "Yvette D. Clarke", "phone": "202-225-6231", "bioguide_id": "C001067", "state": "NY", "party": "Democrat", "type": "rep"}
+{"name": "Wm. Lacy Clay", "phone": "202-225-2406", "bioguide_id": "C001049", "state": "MO", "party": "Democrat", "type": "rep"}
+{"name": "Emanuel Cleaver", "phone": "202-225-4535", "bioguide_id": "C001061", "state": "MO", "party": "Democrat", "type": "rep"}
+{"name": "James E. Clyburn", "phone": "202-225-3315", "bioguide_id": "C000537", "state": "SC", "party": "Democrat", "type": "rep"}
+{"name": "Mike Coffman", "phone": "202-225-7882", "bioguide_id": "C001077", "state": "CO", "party": "Republican", "type": "rep"}
+{"name": "Steve Cohen", "phone": "202-225-3265", "bioguide_id": "C001068", "state": "TN", "party": "Democrat", "type": "rep"}
+{"name": "Tom Cole", "phone": "202-225-6165", "bioguide_id": "C001053", "state": "OK", "party": "Republican", "type": "rep"}
+{"name": "K. Michael Conaway", "phone": "202-225-3605", "bioguide_id": "C001062", "state": "TX", "party": "Republican", "type": "rep"}
+{"name": "Gerald E. Connolly", "phone": "202-225-1492", "bioguide_id": "C001078", "state": "VA", "party": "Democrat", "type": "rep"}
+{"name": "John Conyers, Jr.", "phone": "202-225-5126", "bioguide_id": "C000714", "state": "MI", "party": "Democrat", "type": "rep"}
+{"name": "Jim Cooper", "phone": "202-225-4311", "bioguide_id": "C000754", "state": "TN", "party": "Democrat", "type": "rep"}
+{"name": "Jim Costa", "phone": "202-225-3341", "bioguide_id": "C001059", "state": "CA", "party": "Democrat", "type": "rep"}
+{"name": "Joe Courtney", "phone": "202-225-2076", "bioguide_id": "C001069", "state": "CT", "party": "Democrat", "type": "rep"}
+{"name": "Mike Crapo", "phone": "202-224-6142", "bioguide_id": "C000880", "state": "ID", "party": "Republican", "type": "sen"}
+{"name": "Eric A. \"Rick\" Crawford", "phone": "202-225-4076", "bioguide_id": "C001087", "state": "AR", "party": "Republican", "type": "rep"}
+{"name": "Joseph Crowley", "phone": "202-225-3965", "bioguide_id": "C001038", "state": "NY", "party": "Democrat", "type": "rep"}
+{"name": "Henry Cuellar", "phone": "202-225-1640", "bioguide_id": "C001063", "state": "TX", "party": "Democrat", "type": "rep"}
+{"name": "John Abney Culberson", "phone": "202-225-2571", "bioguide_id": "C001048", "state": "TX", "party": "Republican", "type": "rep"}
+{"name": "Elijah E. Cummings", "phone": "202-225-4741", "bioguide_id": "C000984", "state": "MD", "party": "Democrat", "type": "rep"}
+{"name": "Danny K. Davis", "phone": "202-225-5006", "bioguide_id": "D000096", "state": "IL", "party": "Democrat", "type": "rep"}
+{"name": "Susan A. Davis", "phone": "202-225-2040", "bioguide_id": "D000598", "state": "CA", "party": "Democrat", "type": "rep"}
+{"name": "Peter A. DeFazio", "phone": "202-225-6416", "bioguide_id": "D000191", "state": "OR", "party": "Democrat", "type": "rep"}
+{"name": "Diana DeGette", "phone": "202-225-4431", "bioguide_id": "D000197", "state": "CO", "party": "Democrat", "type": "rep"}
+{"name": "Rosa L. DeLauro", "phone": "202-225-3661", "bioguide_id": "D000216", "state": "CT", "party": "Democrat", "type": "rep"}
+{"name": "Jeff Denham", "phone": "202-225-4540", "bioguide_id": "D000612", "state": "CA", "party": "Republican", "type": "rep"}
+{"name": "Charles W. Dent", "phone": "202-225-6411", "bioguide_id": "D000604", "state": "PA", "party": "Republican", "type": "rep"}
+{"name": "Scott DesJarlais", "phone": "202-225-6831", "bioguide_id": "D000616", "state": "TN", "party": "Republican", "type": "rep"}
+{"name": "Theodore E. Deutch", "phone": "202-225-3001", "bioguide_id": "D000610", "state": "FL", "party": "Democrat", "type": "rep"}
+{"name": "Mario Diaz-Balart", "phone": "202-225-4211", "bioguide_id": "D000600", "state": "FL", "party": "Republican", "type": "rep"}
+{"name": "Lloyd Doggett", "phone": "202-225-4865", "bioguide_id": "D000399", "state": "TX", "party": "Democrat", "type": "rep"}
+{"name": "Joe Donnelly", "phone": "202-224-4814", "bioguide_id": "D000607", "state": "IN", "party": "Democrat", "type": "sen"}
+{"name": "Michael F. Doyle", "phone": "202-225-2135", "bioguide_id": "D000482", "state": "PA", "party": "Democrat", "type": "rep"}
+{"name": "Sean P. Duffy", "phone": "202-225-3365", "bioguide_id": "D000614", "state": "WI", "party": "Republican", "type": "rep"}
+{"name": "Jeff Duncan", "phone": "202-225-5301", "bioguide_id": "D000615", "state": "SC", "party": "Republican", "type": "rep"}
+{"name": "John J. Duncan, Jr.", "phone": "202-225-5435", "bioguide_id": "D000533", "state": "TN", "party": "Republican", "type": "rep"}
+{"name": "Keith Ellison", "phone": "202-225-4755", "bioguide_id": "E000288", "state": "MN", "party": "Democrat", "type": "rep"}
+{"name": "Eliot L. Engel", "phone": "202-225-2464", "bioguide_id": "E000179", "state": "NY", "party": "Democrat", "type": "rep"}
+{"name": "Anna G. Eshoo", "phone": "202-225-8104", "bioguide_id": "E000215", "state": "CA", "party": "Democrat", "type": "rep"}
+{"name": "Blake Farenthold", "phone": "202-225-7742", "bioguide_id": "F000460", "state": "TX", "party": "Republican", "type": "rep"}
+{"name": "Jeff Flake", "phone": "202-224-4521", "bioguide_id": "F000444", "state": "AZ", "party": "Republican", "type": "sen"}
+{"name": "Charles J. \"Chuck\" Fleischmann", "phone": "202-225-3271", "bioguide_id": "F000459", "state": "TN", "party": "Republican", "type": "rep"}
+{"name": "Bill Flores", "phone": "202-225-6105", "bioguide_id": "F000461", "state": "TX", "party": "Republican", "type": "rep"}
+{"name": "Jeff Fortenberry", "phone": "202-225-4806", "bioguide_id": "F000449", "state": "NE", "party": "Republican", "type": "rep"}
+{"name": "Virginia Foxx", "phone": "202-225-2071", "bioguide_id": "F000450", "state": "NC", "party": "Republican", "type": "rep"}
+{"name": "Trent Franks", "phone": "202-225-4576", "bioguide_id": "F000448", "state": "AZ", "party": "Republican", "type": "rep"}
+{"name": "Rodney P. Frelinghuysen", "phone": "202-225-5034", "bioguide_id": "F000372", "state": "NJ", "party": "Republican", "type": "rep"}
+{"name": "Marcia L. Fudge", "phone": "202-225-7032", "bioguide_id": "F000455", "state": "OH", "party": "Democrat", "type": "rep"}
+{"name": "John Garamendi", "phone": "202-225-1880", "bioguide_id": "G000559", "state": "CA", "party": "Democrat", "type": "rep"}
+{"name": "Cory Gardner", "phone": "202-224-5941", "bioguide_id": "G000562", "state": "CO", "party": "Republican", "type": "sen"}
+{"name": "Bob Gibbs", "phone": "202-225-6265", "bioguide_id": "G000563", "state": "OH", "party": "Republican", "type": "rep"}
+{"name": "Louie Gohmert", "phone": "202-225-3035", "bioguide_id": "G000552", "state": "TX", "party": "Republican", "type": "rep"}
+{"name": "Bob Goodlatte", "phone": "202-225-5431", "bioguide_id": "G000289", "state": "VA", "party": "Republican", "type": "rep"}
+{"name": "Paul A. Gosar", "phone": "202-225-2315", "bioguide_id": "G000565", "state": "AZ", "party": "Republican", "type": "rep"}
+{"name": "Trey Gowdy", "phone": "202-225-6030", "bioguide_id": "G000566", "state": "SC", "party": "Republican", "type": "rep"}
+{"name": "Kay Granger", "phone": "202-225-5071", "bioguide_id": "G000377", "state": "TX", "party": "Republican", "type": "rep"}
+{"name": "Chuck Grassley", "phone": "202-224-3744", "bioguide_id": "G000386", "state": "IA", "party": "Republican", "type": "sen"}
+{"name": "Sam Graves", "phone": "202-225-7041", "bioguide_id": "G000546", "state": "MO", "party": "Republican", "type": "rep"}
+{"name": "Tom Graves", "phone": "202-225-5211", "bioguide_id": "G000560", "state": "GA", "party": "Republican", "type": "rep"}
+{"name": "Al Green", "phone": "202-225-7508", "bioguide_id": "G000553", "state": "TX", "party": "Democrat", "type": "rep"}
+{"name": "Gene Green", "phone": "202-225-1688", "bioguide_id": "G000410", "state": "TX", "party": "Democrat", "type": "rep"}
+{"name": "H. Morgan Griffith", "phone": "202-225-3861", "bioguide_id": "G000568", "state": "VA", "party": "Republican", "type": "rep"}
+{"name": "Ra\u00fal M. Grijalva", "phone": "202-225-2435", "bioguide_id": "G000551", "state": "AZ", "party": "Democrat", "type": "rep"}
+{"name": "Brett Guthrie", "phone": "202-225-3501", "bioguide_id": "G000558", "state": "KY", "party": "Republican", "type": "rep"}
+{"name": "Luis V. Guti\u00e9rrez", "phone": "202-225-8203", "bioguide_id": "G000535", "state": "IL", "party": "Democrat", "type": "rep"}
+{"name": "Gregg Harper", "phone": "202-225-5031", "bioguide_id": "H001045", "state": "MS", "party": "Republican", "type": "rep"}
+{"name": "Andy Harris", "phone": "202-225-5311", "bioguide_id": "H001052", "state": "MD", "party": "Republican", "type": "rep"}
+{"name": "Vicky Hartzler", "phone": "202-225-2876", "bioguide_id": "H001053", "state": "MO", "party": "Republican", "type": "rep"}
+{"name": "Alcee L. Hastings", "phone": "202-225-1313", "bioguide_id": "H000324", "state": "FL", "party": "Democrat", "type": "rep"}
+{"name": "Martin Heinrich", "phone": "202-224-5521", "bioguide_id": "H001046", "state": "NM", "party": "Democrat", "type": "sen"}
+{"name": "Jeb Hensarling", "phone": "202-225-3484", "bioguide_id": "H001036", "state": "TX", "party": "Republican", "type": "rep"}
+{"name": "Jaime Herrera Beutler", "phone": "202-225-3536", "bioguide_id": "H001056", "state": "WA", "party": "Republican", "type": "rep"}
+{"name": "Brian Higgins", "phone": "202-225-3306", "bioguide_id": "H001038", "state": "NY", "party": "Democrat", "type": "rep"}
+{"name": "James A. Himes", "phone": "202-225-5541", "bioguide_id": "H001047", "state": "CT", "party": "Democrat", "type": "rep"}
+{"name": "Mazie K. Hirono", "phone": "202-224-6361", "bioguide_id": "H001042", "state": "HI", "party": "Democrat", "type": "sen"}
+{"name": "John Hoeven", "phone": "202-224-2551", "bioguide_id": "H001061", "state": "ND", "party": "Republican", "type": "sen"}
+{"name": "Steny H. Hoyer", "phone": "202-225-4131", "bioguide_id": "H000874", "state": "MD", "party": "Democrat", "type": "rep"}
+{"name": "Bill Huizenga", "phone": "202-225-4401", "bioguide_id": "H001058", "state": "MI", "party": "Republican", "type": "rep"}
+{"name": "Randy Hultgren", "phone": "202-225-2976", "bioguide_id": "H001059", "state": "IL", "party": "Republican", "type": "rep"}
+{"name": "Duncan Hunter", "phone": "202-225-5672", "bioguide_id": "H001048", "state": "CA", "party": "Republican", "type": "rep"}
+{"name": "Johnny Isakson", "phone": "202-224-3643", "bioguide_id": "I000055", "state": "GA", "party": "Republican", "type": "sen"}
+{"name": "Darrell E. Issa", "phone": "202-225-3906", "bioguide_id": "I000056", "state": "CA", "party": "Republican", "type": "rep"}
+{"name": "Sheila Jackson Lee", "phone": "202-225-3816", "bioguide_id": "J000032", "state": "TX", "party": "Democrat", "type": "rep"}
+{"name": "Lynn Jenkins", "phone": "202-225-6601", "bioguide_id": "J000290", "state": "KS", "party": "Republican", "type": "rep"}
+{"name": "Bill Johnson", "phone": "202-225-5705", "bioguide_id": "J000292", "state": "OH", "party": "Republican", "type": "rep"}
+{"name": "Eddie Bernice Johnson", "phone": "202-225-8885", "bioguide_id": "J000126", "state": "TX", "party": "Democrat", "type": "rep"}
+{"name": "Henry C. \"Hank\" Johnson, Jr.", "phone": "202-225-1605", "bioguide_id": "J000288", "state": "GA", "party": "Democrat", "type": "rep"}
+{"name": "Ron Johnson", "phone": "202-224-5323", "bioguide_id": "J000293", "state": "WI", "party": "Republican", "type": "sen"}
+{"name": "Sam Johnson", "phone": "202-225-4201", "bioguide_id": "J000174", "state": "TX", "party": "Republican", "type": "rep"}
+{"name": "Walter B. Jones", "phone": "202-225-3415", "bioguide_id": "J000255", "state": "NC", "party": "Republican", "type": "rep"}
+{"name": "Jim Jordan", "phone": "202-225-2676", "bioguide_id": "J000289", "state": "OH", "party": "Republican", "type": "rep"}
+{"name": "Marcy Kaptur", "phone": "202-225-4146", "bioguide_id": "K000009", "state": "OH", "party": "Democrat", "type": "rep"}
+{"name": "William R. Keating", "phone": "202-225-3111", "bioguide_id": "K000375", "state": "MA", "party": "Democrat", "type": "rep"}
+{"name": "Mike Kelly", "phone": "202-225-5406", "bioguide_id": "K000376", "state": "PA", "party": "Republican", "type": "rep"}
+{"name": "Ron Kind", "phone": "202-225-5506", "bioguide_id": "K000188", "state": "WI", "party": "Democrat", "type": "rep"}
+{"name": "Peter T. King", "phone": "202-225-7896", "bioguide_id": "K000210", "state": "NY", "party": "Republican", "type": "rep"}
+{"name": "Steve King", "phone": "202-225-4426", "bioguide_id": "K000362", "state": "IA", "party": "Republican", "type": "rep"}
+{"name": "Adam Kinzinger", "phone": "202-225-3635", "bioguide_id": "K000378", "state": "IL", "party": "Republican", "type": "rep"}
+{"name": "Ra\u00fal R. Labrador", "phone": "202-225-6611", "bioguide_id": "L000573", "state": "ID", "party": "Republican", "type": "rep"}
+{"name": "Doug Lamborn", "phone": "202-225-4422", "bioguide_id": "L000564", "state": "CO", "party": "Republican", "type": "rep"}
+{"name": "Leonard Lance", "phone": "202-225-5361", "bioguide_id": "L000567", "state": "NJ", "party": "Republican", "type": "rep"}
+{"name": "James R. Langevin", "phone": "202-225-2735", "bioguide_id": "L000559", "state": "RI", "party": "Democrat", "type": "rep"}
+{"name": "James Lankford", "phone": "202-224-5754", "bioguide_id": "L000575", "state": "OK", "party": "Republican", "type": "sen"}
+{"name": "Rick Larsen", "phone": "202-225-2605", "bioguide_id": "L000560", "state": "WA", "party": "Democrat", "type": "rep"}
+{"name": "John B. Larson", "phone": "202-225-2265", "bioguide_id": "L000557", "state": "CT", "party": "Democrat", "type": "rep"}
+{"name": "Robert E. Latta", "phone": "202-225-6405", "bioguide_id": "L000566", "state": "OH", "party": "Republican", "type": "rep"}
+{"name": "Patrick J. Leahy", "phone": "202-224-4242", "bioguide_id": "L000174", "state": "VT", "party": "Democrat", "type": "sen"}
+{"name": "Barbara Lee", "phone": "202-225-2661", "bioguide_id": "L000551", "state": "CA", "party": "Democrat", "type": "rep"}
+{"name": "Mike Lee", "phone": "202-224-5444", "bioguide_id": "L000577", "state": "UT", "party": "Republican", "type": "sen"}
+{"name": "Sander M. Levin", "phone": "202-225-4961", "bioguide_id": "L000263", "state": "MI", "party": "Democrat", "type": "rep"}
+{"name": "John Lewis", "phone": "202-225-3801", "bioguide_id": "L000287", "state": "GA", "party": "Democrat", "type": "rep"}
+{"name": "Daniel Lipinski", "phone": "202-225-5701", "bioguide_id": "L000563", "state": "IL", "party": "Democrat", "type": "rep"}
+{"name": "Frank A. LoBiondo", "phone": "202-225-6572", "bioguide_id": "L000554", "state": "NJ", "party": "Republican", "type": "rep"}
+{"name": "David Loebsack", "phone": "202-225-6576", "bioguide_id": "L000565", "state": "IA", "party": "Democrat", "type": "rep"}
+{"name": "Zoe Lofgren", "phone": "202-225-3072", "bioguide_id": "L000397", "state": "CA", "party": "Democrat", "type": "rep"}
+{"name": "Billy Long", "phone": "202-225-6536", "bioguide_id": "L000576", "state": "MO", "party": "Republican", "type": "rep"}
+{"name": "Nita M. Lowey", "phone": "202-225-6506", "bioguide_id": "L000480", "state": "NY", "party": "Democrat", "type": "rep"}
+{"name": "Frank D. Lucas", "phone": "202-225-5565", "bioguide_id": "L000491", "state": "OK", "party": "Republican", "type": "rep"}
+{"name": "Blaine Luetkemeyer", "phone": "202-225-2956", "bioguide_id": "L000569", "state": "MO", "party": "Republican", "type": "rep"}
+{"name": "Ben Ray Luj\u00e1n", "phone": "202-225-6190", "bioguide_id": "L000570", "state": "NM", "party": "Democrat", "type": "rep"}
+{"name": "Stephen F. Lynch", "phone": "202-225-8273", "bioguide_id": "L000562", "state": "MA", "party": "Democrat", "type": "rep"}
+{"name": "Carolyn B. Maloney", "phone": "202-225-7944", "bioguide_id": "M000087", "state": "NY", "party": "Democrat", "type": "rep"}
+{"name": "Kenny Marchant", "phone": "202-225-6605", "bioguide_id": "M001158", "state": "TX", "party": "Republican", "type": "rep"}
+{"name": "Tom Marino", "phone": "202-225-3731", "bioguide_id": "M001179", "state": "PA", "party": "Republican", "type": "rep"}
+{"name": "Edward J. Markey", "phone": "202-224-2742", "bioguide_id": "M000133", "state": "MA", "party": "Democrat", "type": "sen"}
+{"name": "Doris O. Matsui", "phone": "202-225-7163", "bioguide_id": "M001163", "state": "CA", "party": "Democrat", "type": "rep"}
+{"name": "John McCain", "phone": "202-224-2235", "bioguide_id": "M000303", "state": "AZ", "party": "Republican", "type": "sen"}
+{"name": "Kevin McCarthy", "phone": "202-225-2915", "bioguide_id": "M001165", "state": "CA", "party": "Republican", "type": "rep"}
+{"name": "Michael T. McCaul", "phone": "202-225-2401", "bioguide_id": "M001157", "state": "TX", "party": "Republican", "type": "rep"}
+{"name": "Tom McClintock", "phone": "202-225-2511", "bioguide_id": "M001177", "state": "CA", "party": "Republican", "type": "rep"}
+{"name": "Betty McCollum", "phone": "202-225-6631", "bioguide_id": "M001143", "state": "MN", "party": "Democrat", "type": "rep"}
+{"name": "James P. McGovern", "phone": "202-225-6101", "bioguide_id": "M000312", "state": "MA", "party": "Democrat", "type": "rep"}
+{"name": "Patrick T. McHenry", "phone": "202-225-2576", "bioguide_id": "M001156", "state": "NC", "party": "Republican", "type": "rep"}
+{"name": "David B. McKinley", "phone": "202-225-4172", "bioguide_id": "M001180", "state": "WV", "party": "Republican", "type": "rep"}
+{"name": "Cathy McMorris Rodgers", "phone": "202-225-2006", "bioguide_id": "M001159", "state": "WA", "party": "Republican", "type": "rep"}
+{"name": "Jerry McNerney", "phone": "202-225-1947", "bioguide_id": "M001166", "state": "CA", "party": "Democrat", "type": "rep"}
+{"name": "Patrick Meehan", "phone": "202-225-2011", "bioguide_id": "M001181", "state": "PA", "party": "Republican", "type": "rep"}
+{"name": "Gregory W. Meeks", "phone": "202-225-3461", "bioguide_id": "M001137", "state": "NY", "party": "Democrat", "type": "rep"}
+{"name": "Gwen Moore", "phone": "202-225-4572", "bioguide_id": "M001160", "state": "WI", "party": "Democrat", "type": "rep"}
+{"name": "Jerry Moran", "phone": "202-224-6521", "bioguide_id": "M000934", "state": "KS", "party": "Republican", "type": "sen"}
+{"name": "Lisa Murkowski", "phone": "202-224-6665", "bioguide_id": "M001153", "state": "AK", "party": "Republican", "type": "sen"}
+{"name": "Christopher Murphy", "phone": "202-224-4041", "bioguide_id": "M001169", "state": "CT", "party": "Democrat", "type": "sen"}
+{"name": "Tim Murphy", "phone": "202-225-2301", "bioguide_id": "M001151", "state": "PA", "party": "Republican", "type": "rep"}
+{"name": "Patty Murray", "phone": "202-224-2621", "bioguide_id": "M001111", "state": "WA", "party": "Democrat", "type": "sen"}
+{"name": "Jerrold Nadler", "phone": "202-225-5635", "bioguide_id": "N000002", "state": "NY", "party": "Democrat", "type": "rep"}
+{"name": "Grace F. Napolitano", "phone": "202-225-5256", "bioguide_id": "N000179", "state": "CA", "party": "Democrat", "type": "rep"}
+{"name": "Richard E. Neal", "phone": "202-225-5601", "bioguide_id": "N000015", "state": "MA", "party": "Democrat", "type": "rep"}
+{"name": "Kristi L. Noem", "phone": "202-225-2801", "bioguide_id": "N000184", "state": "SD", "party": "Republican", "type": "rep"}
+{"name": "Eleanor Holmes Norton", "phone": "202-225-8050", "bioguide_id": "N000147", "state": "DC", "party": "Democrat", "type": "rep"}
+{"name": "Devin Nunes", "phone": "202-225-2523", "bioguide_id": "N000181", "state": "CA", "party": "Republican", "type": "rep"}
+{"name": "Pete Olson", "phone": "202-225-5951", "bioguide_id": "O000168", "state": "TX", "party": "Republican", "type": "rep"}
+{"name": "Steven M. Palazzo", "phone": "202-225-5772", "bioguide_id": "P000601", "state": "MS", "party": "Republican", "type": "rep"}
+{"name": "Frank Pallone, Jr.", "phone": "202-225-4671", "bioguide_id": "P000034", "state": "NJ", "party": "Democrat", "type": "rep"}
+{"name": "Bill Pascrell, Jr.", "phone": "202-225-5751", "bioguide_id": "P000096", "state": "NJ", "party": "Democrat", "type": "rep"}
+{"name": "Rand Paul", "phone": "202-224-4343", "bioguide_id": "P000603", "state": "KY", "party": "Republican", "type": "sen"}
+{"name": "Erik Paulsen", "phone": "202-225-2871", "bioguide_id": "P000594", "state": "MN", "party": "Republican", "type": "rep"}
+{"name": "Stevan Pearce", "phone": "202-225-2365", "bioguide_id": "P000588", "state": "NM", "party": "Republican", "type": "rep"}
+{"name": "Nancy Pelosi", "phone": "202-225-4965", "bioguide_id": "P000197", "state": "CA", "party": "Democrat", "type": "rep"}
+{"name": "Ed Perlmutter", "phone": "202-225-2645", "bioguide_id": "P000593", "state": "CO", "party": "Democrat", "type": "rep"}
+{"name": "Gary C. Peters", "phone": "202-224-6221", "bioguide_id": "P000595", "state": "MI", "party": "Democrat", "type": "sen"}
+{"name": "Collin C. Peterson", "phone": "202-225-2165", "bioguide_id": "P000258", "state": "MN", "party": "Democrat", "type": "rep"}
+{"name": "Chellie Pingree", "phone": "202-225-6116", "bioguide_id": "P000597", "state": "ME", "party": "Democrat", "type": "rep"}
+{"name": "Ted Poe", "phone": "202-225-6565", "bioguide_id": "P000592", "state": "TX", "party": "Republican", "type": "rep"}
+{"name": "Jared Polis", "phone": "202-225-2161", "bioguide_id": "P000598", "state": "CO", "party": "Democrat", "type": "rep"}
+{"name": "Rob Portman", "phone": "202-224-3353", "bioguide_id": "P000449", "state": "OH", "party": "Republican", "type": "sen"}
+{"name": "Bill Posey", "phone": "202-225-3671", "bioguide_id": "P000599", "state": "FL", "party": "Republican", "type": "rep"}
+{"name": "David E. Price", "phone": "202-225-1784", "bioguide_id": "P000523", "state": "NC", "party": "Democrat", "type": "rep"}
+{"name": "Mike Quigley", "phone": "202-225-4061", "bioguide_id": "Q000023", "state": "IL", "party": "Democrat", "type": "rep"}
+{"name": "Tom Reed", "phone": "202-225-3161", "bioguide_id": "R000585", "state": "NY", "party": "Republican", "type": "rep"}
+{"name": "David G. Reichert", "phone": "202-225-7761", "bioguide_id": "R000578", "state": "WA", "party": "Republican", "type": "rep"}
+{"name": "James B. Renacci", "phone": "202-225-3876", "bioguide_id": "R000586", "state": "OH", "party": "Republican", "type": "rep"}
+{"name": "Cedric L. Richmond", "phone": "202-225-6636", "bioguide_id": "R000588", "state": "LA", "party": "Democrat", "type": "rep"}
+{"name": "Martha Roby", "phone": "202-225-2901", "bioguide_id": "R000591", "state": "AL", "party": "Republican", "type": "rep"}
+{"name": "David P. Roe", "phone": "202-225-6356", "bioguide_id": "R000582", "state": "TN", "party": "Republican", "type": "rep"}
+{"name": "Harold Rogers", "phone": "202-225-4601", "bioguide_id": "R000395", "state": "KY", "party": "Republican", "type": "rep"}
+{"name": "Mike Rogers", "phone": "202-225-3261", "bioguide_id": "R000575", "state": "AL", "party": "Republican", "type": "rep"}
+{"name": "Dana Rohrabacher", "phone": "202-225-2415", "bioguide_id": "R000409", "state": "CA", "party": "Republican", "type": "rep"}
+{"name": "Todd Rokita", "phone": "202-225-5037", "bioguide_id": "R000592", "state": "IN", "party": "Republican", "type": "rep"}
+{"name": "Thomas J. Rooney", "phone": "202-225-5792", "bioguide_id": "R000583", "state": "FL", "party": "Republican", "type": "rep"}
+{"name": "Ileana Ros-Lehtinen", "phone": "202-225-3931", "bioguide_id": "R000435", "state": "FL", "party": "Republican", "type": "rep"}
+{"name": "Peter J. Roskam", "phone": "202-225-4561", "bioguide_id": "R000580", "state": "IL", "party": "Republican", "type": "rep"}
+{"name": "Dennis A. Ross", "phone": "202-225-1252", "bioguide_id": "R000593", "state": "FL", "party": "Republican", "type": "rep"}
+{"name": "Lucille Roybal-Allard", "phone": "202-225-1766", "bioguide_id": "R000486", "state": "CA", "party": "Democrat", "type": "rep"}
+{"name": "Edward R. Royce", "phone": "202-225-4111", "bioguide_id": "R000487", "state": "CA", "party": "Republican", "type": "rep"}
+{"name": "Marco Rubio", "phone": "202-224-3041", "bioguide_id": "R000595", "state": "FL", "party": "Republican", "type": "sen"}
+{"name": "C. A. Dutch Ruppersberger", "phone": "202-225-3061", "bioguide_id": "R000576", "state": "MD", "party": "Democrat", "type": "rep"}
+{"name": "Bobby L. Rush", "phone": "202-225-4372", "bioguide_id": "R000515", "state": "IL", "party": "Democrat", "type": "rep"}
+{"name": "Paul D. Ryan", "phone": "202-225-3031", "bioguide_id": "R000570", "state": "WI", "party": "Republican", "type": "rep"}
+{"name": "Tim Ryan", "phone": "202-225-5261", "bioguide_id": "R000577", "state": "OH", "party": "Democrat", "type": "rep"}
+{"name": "Gregorio Kilili Camacho Sablan", "phone": "202-225-2646", "bioguide_id": "S001177", "state": "MP", "party": "Democrat", "type": "rep"}
+{"name": "John P. Sarbanes", "phone": "202-225-4016", "bioguide_id": "S001168", "state": "MD", "party": "Democrat", "type": "rep"}
+{"name": "Steve Scalise", "phone": "202-225-3015", "bioguide_id": "S001176", "state": "LA", "party": "Republican", "type": "rep"}
+{"name": "Janice D. Schakowsky", "phone": "202-225-2111", "bioguide_id": "S001145", "state": "IL", "party": "Democrat", "type": "rep"}
+{"name": "Adam B. Schiff", "phone": "202-225-4176", "bioguide_id": "S001150", "state": "CA", "party": "Democrat", "type": "rep"}
+{"name": "Kurt Schrader", "phone": "202-225-5711", "bioguide_id": "S001180", "state": "OR", "party": "Democrat", "type": "rep"}
+{"name": "Charles E. Schumer", "phone": "202-224-6542", "bioguide_id": "S000148", "state": "NY", "party": "Democrat", "type": "sen"}
+{"name": "David Schweikert", "phone": "202-225-2190", "bioguide_id": "S001183", "state": "AZ", "party": "Republican", "type": "rep"}
+{"name": "Austin Scott", "phone": "202-225-6531", "bioguide_id": "S001189", "state": "GA", "party": "Republican", "type": "rep"}
+{"name": "David Scott", "phone": "202-225-2939", "bioguide_id": "S001157", "state": "GA", "party": "Democrat", "type": "rep"}
+{"name": "Robert C. \"Bobby\" Scott", "phone": "202-225-8351", "bioguide_id": "S000185", "state": "VA", "party": "Democrat", "type": "rep"}
+{"name": "Tim Scott", "phone": "202-224-6121", "bioguide_id": "S001184", "state": "SC", "party": "Republican", "type": "sen"}
+{"name": "F. James Sensenbrenner, Jr.", "phone": "202-225-5101", "bioguide_id": "S000244", "state": "WI", "party": "Republican", "type": "rep"}
+{"name": "Jos\u00e9 E. Serrano", "phone": "202-225-4361", "bioguide_id": "S000248", "state": "NY", "party": "Democrat", "type": "rep"}
+{"name": "Pete Sessions", "phone": "202-225-2231", "bioguide_id": "S000250", "state": "TX", "party": "Republican", "type": "rep"}
+{"name": "Terri A. Sewell", "phone": "202-225-2665", "bioguide_id": "S001185", "state": "AL", "party": "Democrat", "type": "rep"}
+{"name": "Richard C. Shelby", "phone": "202-224-5744", "bioguide_id": "S000320", "state": "AL", "party": "Republican", "type": "sen"}
+{"name": "Brad Sherman", "phone": "202-225-5911", "bioguide_id": "S000344", "state": "CA", "party": "Democrat", "type": "rep"}
+{"name": "John Shimkus", "phone": "202-225-5271", "bioguide_id": "S000364", "state": "IL", "party": "Republican", "type": "rep"}
+{"name": "Bill Shuster", "phone": "202-225-2431", "bioguide_id": "S001154", "state": "PA", "party": "Republican", "type": "rep"}
+{"name": "Michael K. Simpson", "phone": "202-225-5531", "bioguide_id": "S001148", "state": "ID", "party": "Republican", "type": "rep"}
+{"name": "Albio Sires", "phone": "202-225-7919", "bioguide_id": "S001165", "state": "NJ", "party": "Democrat", "type": "rep"}
+{"name": "Louise McIntosh Slaughter", "phone": "202-225-3615", "bioguide_id": "S000480", "state": "NY", "party": "Democrat", "type": "rep"}
+{"name": "Adam Smith", "phone": "202-225-8901", "bioguide_id": "S000510", "state": "WA", "party": "Democrat", "type": "rep"}
+{"name": "Adrian Smith", "phone": "202-225-6435", "bioguide_id": "S001172", "state": "NE", "party": "Republican", "type": "rep"}
+{"name": "Christopher H. Smith", "phone": "202-225-3765", "bioguide_id": "S000522", "state": "NJ", "party": "Republican", "type": "rep"}
+{"name": "Lamar Smith", "phone": "202-225-4236", "bioguide_id": "S000583", "state": "TX", "party": "Republican", "type": "rep"}
+{"name": "Jackie Speier", "phone": "202-225-3531", "bioguide_id": "S001175", "state": "CA", "party": "Democrat", "type": "rep"}
+{"name": "Steve Stivers", "phone": "202-225-2015", "bioguide_id": "S001187", "state": "OH", "party": "Republican", "type": "rep"}
+{"name": "Linda T. S\u00e1nchez", "phone": "202-225-6676", "bioguide_id": "S001156", "state": "CA", "party": "Democrat", "type": "rep"}
+{"name": "Bennie G. Thompson", "phone": "202-225-5876", "bioguide_id": "T000193", "state": "MS", "party": "Democrat", "type": "rep"}
+{"name": "Mike Thompson", "phone": "202-225-3311", "bioguide_id": "T000460", "state": "CA", "party": "Democrat", "type": "rep"}
+{"name": "Glenn Thompson", "phone": "202-225-5121", "bioguide_id": "T000467", "state": "PA", "party": "Republican", "type": "rep"}
+{"name": "Mac Thornberry", "phone": "202-225-3706", "bioguide_id": "T000238", "state": "TX", "party": "Republican", "type": "rep"}
+{"name": "John Thune", "phone": "202-224-2321", "bioguide_id": "T000250", "state": "SD", "party": "Republican", "type": "sen"}
+{"name": "Patrick J. Tiberi", "phone": "202-225-5355", "bioguide_id": "T000462", "state": "OH", "party": "Republican", "type": "rep"}
+{"name": "Scott R. Tipton", "phone": "202-225-4761", "bioguide_id": "T000470", "state": "CO", "party": "Republican", "type": "rep"}
+{"name": "Paul Tonko", "phone": "202-225-5076", "bioguide_id": "T000469", "state": "NY", "party": "Democrat", "type": "rep"}
+{"name": "Patrick J. Toomey", "phone": "202-224-4254", "bioguide_id": "T000461", "state": "PA", "party": "Republican", "type": "sen"}
+{"name": "Niki Tsongas", "phone": "202-225-3411", "bioguide_id": "T000465", "state": "MA", "party": "Democrat", "type": "rep"}
+{"name": "Michael R. Turner", "phone": "202-225-6465", "bioguide_id": "T000463", "state": "OH", "party": "Republican", "type": "rep"}
+{"name": "Fred Upton", "phone": "202-225-3761", "bioguide_id": "U000031", "state": "MI", "party": "Republican", "type": "rep"}
+{"name": "Chris Van Hollen", "phone": "202-224-4654", "bioguide_id": "V000128", "state": "MD", "party": "Democrat", "type": "sen"}
+{"name": "Nydia M. Vel\u00e1zquez", "phone": "202-225-2361", "bioguide_id": "V000081", "state": "NY", "party": "Democrat", "type": "rep"}
+{"name": "Peter J. Visclosky", "phone": "202-225-2461", "bioguide_id": "V000108", "state": "IN", "party": "Democrat", "type": "rep"}
+{"name": "Tim Walberg", "phone": "202-225-6276", "bioguide_id": "W000798", "state": "MI", "party": "Republican", "type": "rep"}
+{"name": "Greg Walden", "phone": "202-225-6730", "bioguide_id": "W000791", "state": "OR", "party": "Republican", "type": "rep"}
+{"name": "Timothy J. Walz", "phone": "202-225-2472", "bioguide_id": "W000799", "state": "MN", "party": "Democrat", "type": "rep"}
+{"name": "Debbie Wasserman Schultz", "phone": "202-225-7931", "bioguide_id": "W000797", "state": "FL", "party": "Democrat", "type": "rep"}
+{"name": "Maxine Waters", "phone": "202-225-2201", "bioguide_id": "W000187", "state": "CA", "party": "Democrat", "type": "rep"}
+{"name": "Daniel Webster", "phone": "202-225-1002", "bioguide_id": "W000806", "state": "FL", "party": "Republican", "type": "rep"}
+{"name": "Peter Welch", "phone": "202-225-4115", "bioguide_id": "W000800", "state": "VT", "party": "Democrat", "type": "rep"}
+{"name": "Joe Wilson", "phone": "202-225-2452", "bioguide_id": "W000795", "state": "SC", "party": "Republican", "type": "rep"}
+{"name": "Frederica S. Wilson", "phone": "202-225-4506", "bioguide_id": "W000808", "state": "FL", "party": "Democrat", "type": "rep"}
+{"name": "Robert J. Wittman", "phone": "202-225-4261", "bioguide_id": "W000804", "state": "VA", "party": "Republican", "type": "rep"}
+{"name": "Steve Womack", "phone": "202-225-4301", "bioguide_id": "W000809", "state": "AR", "party": "Republican", "type": "rep"}
+{"name": "Rob Woodall", "phone": "202-225-4272", "bioguide_id": "W000810", "state": "GA", "party": "Republican", "type": "rep"}
+{"name": "Ron Wyden", "phone": "202-224-5244", "bioguide_id": "W000779", "state": "OR", "party": "Democrat", "type": "sen"}
+{"name": "John A. Yarmuth", "phone": "202-225-5401", "bioguide_id": "Y000062", "state": "KY", "party": "Democrat", "type": "rep"}
+{"name": "Kevin Yoder", "phone": "202-225-2865", "bioguide_id": "Y000063", "state": "KS", "party": "Republican", "type": "rep"}
+{"name": "Don Young", "phone": "202-225-5765", "bioguide_id": "Y000033", "state": "AK", "party": "Republican", "type": "rep"}
+{"name": "Todd Young", "phone": "202-224-5623", "bioguide_id": "Y000064", "state": "IN", "party": "Republican", "type": "sen"}
+{"name": "Dean Heller", "phone": "202-224-6244", "bioguide_id": "H001041", "state": "NV", "party": "Republican", "type": "sen"}
+{"name": "Mark E. Amodei", "phone": "202-225-6155", "bioguide_id": "A000369", "state": "NV", "party": "Republican", "type": "rep"}
+{"name": "Suzanne Bonamici", "phone": "202-225-0855", "bioguide_id": "B001278", "state": "OR", "party": "Democrat", "type": "rep"}
+{"name": "Suzan K. DelBene", "phone": "202-225-6311", "bioguide_id": "D000617", "state": "WA", "party": "Democrat", "type": "rep"}
+{"name": "Thomas Massie", "phone": "202-225-3465", "bioguide_id": "M001184", "state": "KY", "party": "Republican", "type": "rep"}
+{"name": "Donald M. Payne, Jr.", "phone": "202-225-3436", "bioguide_id": "P000604", "state": "NJ", "party": "Democrat", "type": "rep"}
+{"name": "Brian Schatz", "phone": "202-224-3934", "bioguide_id": "S001194", "state": "HI", "party": "Democrat", "type": "sen"}
+{"name": "Bill Foster", "phone": "202-225-3515", "bioguide_id": "F000454", "state": "IL", "party": "Democrat", "type": "rep"}
+{"name": "Dina Titus", "phone": "202-225-5965", "bioguide_id": "T000468", "state": "NV", "party": "Democrat", "type": "rep"}
+{"name": "Tom Cotton", "phone": "202-224-2353", "bioguide_id": "C001095", "state": "AR", "party": "Republican", "type": "sen"}
+{"name": "Kyrsten Sinema", "phone": "202-225-9888", "bioguide_id": "S001191", "state": "AZ", "party": "Democrat", "type": "rep"}
+{"name": "Doug LaMalfa", "phone": "202-225-3076", "bioguide_id": "L000578", "state": "CA", "party": "Republican", "type": "rep"}
+{"name": "Jared Huffman", "phone": "202-225-5161", "bioguide_id": "H001068", "state": "CA", "party": "Democrat", "type": "rep"}
+{"name": "Ami Bera", "phone": "202-225-5716", "bioguide_id": "B001287", "state": "CA", "party": "Democrat", "type": "rep"}
+{"name": "Paul Cook", "phone": "202-225-5861", "bioguide_id": "C001094", "state": "CA", "party": "Republican", "type": "rep"}
+{"name": "Eric Swalwell", "phone": "202-225-5065", "bioguide_id": "S001193", "state": "CA", "party": "Democrat", "type": "rep"}
+{"name": "David G. Valadao", "phone": "202-225-4695", "bioguide_id": "V000129", "state": "CA", "party": "Republican", "type": "rep"}
+{"name": "Julia Brownley", "phone": "202-225-5811", "bioguide_id": "B001285", "state": "CA", "party": "Democrat", "type": "rep"}
+{"name": "Tony C\u00e1rdenas", "phone": "202-225-6131", "bioguide_id": "C001097", "state": "CA", "party": "Democrat", "type": "rep"}
+{"name": "Raul Ruiz", "phone": "202-225-5330", "bioguide_id": "R000599", "state": "CA", "party": "Democrat", "type": "rep"}
+{"name": "Mark Takano", "phone": "202-225-2305", "bioguide_id": "T000472", "state": "CA", "party": "Democrat", "type": "rep"}
+{"name": "Alan S. Lowenthal", "phone": "202-225-7924", "bioguide_id": "L000579", "state": "CA", "party": "Democrat", "type": "rep"}
+{"name": "Juan Vargas", "phone": "202-225-8045", "bioguide_id": "V000130", "state": "CA", "party": "Democrat", "type": "rep"}
+{"name": "Scott H. Peters", "phone": "202-225-0508", "bioguide_id": "P000608", "state": "CA", "party": "Democrat", "type": "rep"}
+{"name": "Elizabeth H. Esty", "phone": "202-225-4476", "bioguide_id": "E000293", "state": "CT", "party": "Democrat", "type": "rep"}
+{"name": "Ted S. Yoho", "phone": "202-225-5744", "bioguide_id": "Y000065", "state": "FL", "party": "Republican", "type": "rep"}
+{"name": "Ron DeSantis", "phone": "202-225-2706", "bioguide_id": "D000621", "state": "FL", "party": "Republican", "type": "rep"}
+{"name": "Lois Frankel", "phone": "202-225-9890", "bioguide_id": "F000462", "state": "FL", "party": "Democrat", "type": "rep"}
+{"name": "Doug Collins", "phone": "202-225-9893", "bioguide_id": "C001093", "state": "GA", "party": "Republican", "type": "rep"}
+{"name": "Tulsi Gabbard", "phone": "202-225-4906", "bioguide_id": "G000571", "state": "HI", "party": "Democrat", "type": "rep"}
+{"name": "Tammy Duckworth", "phone": "202-224-2854", "bioguide_id": "D000622", "state": "IL", "party": "Democrat", "type": "sen"}
+{"name": "Rodney Davis", "phone": "202-225-2371", "bioguide_id": "D000619", "state": "IL", "party": "Republican", "type": "rep"}
+{"name": "Cheri Bustos", "phone": "202-225-5905", "bioguide_id": "B001286", "state": "IL", "party": "Democrat", "type": "rep"}
+{"name": "Jackie Walorski", "phone": "202-225-3915", "bioguide_id": "W000813", "state": "IN", "party": "Republican", "type": "rep"}
+{"name": "Susan W. Brooks", "phone": "202-225-2276", "bioguide_id": "B001284", "state": "IN", "party": "Republican", "type": "rep"}
+{"name": "Luke Messer", "phone": "202-225-3021", "bioguide_id": "M001189", "state": "IN", "party": "Republican", "type": "rep"}
+{"name": "Andy Barr", "phone": "202-225-4706", "bioguide_id": "B001282", "state": "KY", "party": "Republican", "type": "rep"}
+{"name": "Elizabeth Warren", "phone": "202-224-4543", "bioguide_id": "W000817", "state": "MA", "party": "Democrat", "type": "sen"}
+{"name": "Joseph P. Kennedy III", "phone": "202-225-5931", "bioguide_id": "K000379", "state": "MA", "party": "Democrat", "type": "rep"}
+{"name": "John K. Delaney", "phone": "202-225-2721", "bioguide_id": "D000620", "state": "MD", "party": "Democrat", "type": "rep"}
+{"name": "Angus S. King, Jr.", "phone": "202-224-5344", "bioguide_id": "K000383", "state": "ME", "party": "Independent", "type": "sen"}
+{"name": "Daniel T. Kildee", "phone": "202-225-3611", "bioguide_id": "K000380", "state": "MI", "party": "Democrat", "type": "rep"}
+{"name": "Richard M. Nolan", "phone": "202-225-6211", "bioguide_id": "N000127", "state": "MN", "party": "Democrat", "type": "rep"}
+{"name": "Ann Wagner", "phone": "202-225-1621", "bioguide_id": "W000812", "state": "MO", "party": "Republican", "type": "rep"}
+{"name": "Steve Daines", "phone": "202-224-2651", "bioguide_id": "D000618", "state": "MT", "party": "Republican", "type": "sen"}
+{"name": "Richard Hudson", "phone": "202-225-3715", "bioguide_id": "H001067", "state": "NC", "party": "Republican", "type": "rep"}
+{"name": "Robert Pittenger", "phone": "202-225-1976", "bioguide_id": "P000606", "state": "NC", "party": "Republican", "type": "rep"}
+{"name": "Mark Meadows", "phone": "202-225-6401", "bioguide_id": "M001187", "state": "NC", "party": "Republican", "type": "rep"}
+{"name": "George Holding", "phone": "202-225-3032", "bioguide_id": "H001065", "state": "NC", "party": "Republican", "type": "rep"}
+{"name": "Heidi Heitkamp", "phone": "202-224-2043", "bioguide_id": "H001069", "state": "ND", "party": "Democrat", "type": "sen"}
+{"name": "Kevin Cramer", "phone": "202-225-2611", "bioguide_id": "C001096", "state": "ND", "party": "Republican", "type": "rep"}
+{"name": "Deb Fischer", "phone": "202-224-6551", "bioguide_id": "F000463", "state": "NE", "party": "Republican", "type": "sen"}
+{"name": "Ann M. Kuster", "phone": "202-225-5206", "bioguide_id": "K000382", "state": "NH", "party": "Democrat", "type": "rep"}
+{"name": "Michelle Lujan Grisham", "phone": "202-225-6316", "bioguide_id": "L000580", "state": "NM", "party": "Democrat", "type": "rep"}
+{"name": "Grace Meng", "phone": "202-225-2601", "bioguide_id": "M001188", "state": "NY", "party": "Democrat", "type": "rep"}
+{"name": "Hakeem S. Jeffries", "phone": "202-225-5936", "bioguide_id": "J000294", "state": "NY", "party": "Democrat", "type": "rep"}
+{"name": "Sean Patrick Maloney", "phone": "202-225-5441", "bioguide_id": "M001185", "state": "NY", "party": "Democrat", "type": "rep"}
+{"name": "Chris Collins", "phone": "202-225-5265", "bioguide_id": "C001092", "state": "NY", "party": "Republican", "type": "rep"}
+{"name": "Brad R. Wenstrup", "phone": "202-225-3164", "bioguide_id": "W000815", "state": "OH", "party": "Republican", "type": "rep"}
+{"name": "Joyce Beatty", "phone": "202-225-4324", "bioguide_id": "B001281", "state": "OH", "party": "Democrat", "type": "rep"}
+{"name": "David P. Joyce", "phone": "202-225-5731", "bioguide_id": "J000295", "state": "OH", "party": "Republican", "type": "rep"}
+{"name": "Jim Bridenstine", "phone": "202-225-2211", "bioguide_id": "B001283", "state": "OK", "party": "Republican", "type": "rep"}
+{"name": "Markwayne Mullin", "phone": "202-225-2701", "bioguide_id": "M001190", "state": "OK", "party": "Republican", "type": "rep"}
+{"name": "Scott Perry", "phone": "202-225-5836", "bioguide_id": "P000605", "state": "PA", "party": "Republican", "type": "rep"}
+{"name": "Keith J. Rothfus", "phone": "202-225-2065", "bioguide_id": "R000598", "state": "PA", "party": "Republican", "type": "rep"}
+{"name": "Matt Cartwright", "phone": "202-225-5546", "bioguide_id": "C001090", "state": "PA", "party": "Democrat", "type": "rep"}
+{"name": "Tom Rice", "phone": "202-225-9895", "bioguide_id": "R000597", "state": "SC", "party": "Republican", "type": "rep"}
+{"name": "Ted Cruz", "phone": "202-224-5922", "bioguide_id": "C001098", "state": "TX", "party": "Republican", "type": "sen"}
+{"name": "Randy K. Weber, Sr.", "phone": "202-225-2831", "bioguide_id": "W000814", "state": "TX", "party": "Republican", "type": "rep"}
+{"name": "Beto O'Rourke", "phone": "202-225-4831", "bioguide_id": "O000170", "state": "TX", "party": "Democrat", "type": "rep"}
+{"name": "Joaquin Castro", "phone": "202-225-3236", "bioguide_id": "C001091", "state": "TX", "party": "Democrat", "type": "rep"}
+{"name": "Roger Williams", "phone": "202-225-9896", "bioguide_id": "W000816", "state": "TX", "party": "Republican", "type": "rep"}
+{"name": "Marc A. Veasey", "phone": "202-225-9897", "bioguide_id": "V000131", "state": "TX", "party": "Democrat", "type": "rep"}
+{"name": "Filemon Vela", "phone": "202-225-9901", "bioguide_id": "V000132", "state": "TX", "party": "Democrat", "type": "rep"}
+{"name": "Chris Stewart", "phone": "202-225-9730", "bioguide_id": "S001192", "state": "UT", "party": "Republican", "type": "rep"}
+{"name": "Tim Kaine", "phone": "202-224-4024", "bioguide_id": "K000384", "state": "VA", "party": "Democrat", "type": "sen"}
+{"name": "Derek Kilmer", "phone": "202-225-5916", "bioguide_id": "K000381", "state": "WA", "party": "Democrat", "type": "rep"}
+{"name": "Denny Heck", "phone": "202-225-9740", "bioguide_id": "H001064", "state": "WA", "party": "Democrat", "type": "rep"}
+{"name": "Mark Pocan", "phone": "202-225-2906", "bioguide_id": "P000607", "state": "WI", "party": "Democrat", "type": "rep"}
+{"name": "Robin L. Kelly", "phone": "202-225-0773", "bioguide_id": "K000385", "state": "IL", "party": "Democrat", "type": "rep"}
+{"name": "Mark Sanford", "phone": "202-225-3176", "bioguide_id": "S000051", "state": "SC", "party": "Republican", "type": "rep"}
+{"name": "Jason Smith", "phone": "202-225-4404", "bioguide_id": "S001195", "state": "MO", "party": "Republican", "type": "rep"}
+{"name": "Cory A. Booker", "phone": "202-224-3224", "bioguide_id": "B001288", "state": "NJ", "party": "Democrat", "type": "sen"}
+{"name": "Katherine M. Clark", "phone": "202-225-2836", "bioguide_id": "C001101", "state": "MA", "party": "Democrat", "type": "rep"}
+{"name": "Bradley Byrne", "phone": "202-225-4931", "bioguide_id": "B001289", "state": "AL", "party": "Republican", "type": "rep"}
+{"name": "Dave Brat", "phone": "202-225-2815", "bioguide_id": "B001290", "state": "VA", "party": "Republican", "type": "rep"}
+{"name": "Donald Norcross", "phone": "202-225-6501", "bioguide_id": "N000188", "state": "NJ", "party": "Democrat", "type": "rep"}
+{"name": "Alma S. Adams", "phone": "202-225-1510", "bioguide_id": "A000370", "state": "NC", "party": "Democrat", "type": "rep"}
+{"name": "Gary J. Palmer", "phone": "202-225-4921", "bioguide_id": "P000609", "state": "AL", "party": "Republican", "type": "rep"}
+{"name": "J. French Hill", "phone": "202-225-2506", "bioguide_id": "H001072", "state": "AR", "party": "Republican", "type": "rep"}
+{"name": "Bruce Westerman", "phone": "202-225-3772", "bioguide_id": "W000821", "state": "AR", "party": "Republican", "type": "rep"}
+{"name": "Martha McSally", "phone": "202-225-2542", "bioguide_id": "M001197", "state": "AZ", "party": "Republican", "type": "rep"}
+{"name": "Ruben Gallego", "phone": "202-225-4065", "bioguide_id": "G000574", "state": "AZ", "party": "Democrat", "type": "rep"}
+{"name": "Mark DeSaulnier", "phone": "202-225-2095", "bioguide_id": "D000623", "state": "CA", "party": "Democrat", "type": "rep"}
+{"name": "Stephen Knight", "phone": "202-225-1956", "bioguide_id": "K000387", "state": "CA", "party": "Republican", "type": "rep"}
+{"name": "Pete Aguilar", "phone": "202-225-3201", "bioguide_id": "A000371", "state": "CA", "party": "Democrat", "type": "rep"}
+{"name": "Ted Lieu", "phone": "202-225-3976", "bioguide_id": "L000582", "state": "CA", "party": "Democrat", "type": "rep"}
+{"name": "Norma J. Torres", "phone": "202-225-6161", "bioguide_id": "T000474", "state": "CA", "party": "Democrat", "type": "rep"}
+{"name": "Mimi Walters", "phone": "202-225-5611", "bioguide_id": "W000820", "state": "CA", "party": "Republican", "type": "rep"}
+{"name": "Ken Buck", "phone": "202-225-4676", "bioguide_id": "B001297", "state": "CO", "party": "Republican", "type": "rep"}
+{"name": "Carlos Curbelo", "phone": "202-225-2778", "bioguide_id": "C001107", "state": "FL", "party": "Republican", "type": "rep"}
+{"name": "Earl L. \"Buddy\" Carter", "phone": "202-225-5831", "bioguide_id": "C001103", "state": "GA", "party": "Republican", "type": "rep"}
+{"name": "Jody B. Hice", "phone": "202-225-4101", "bioguide_id": "H001071", "state": "GA", "party": "Republican", "type": "rep"}
+{"name": "Barry Loudermilk", "phone": "202-225-2931", "bioguide_id": "L000583", "state": "GA", "party": "Republican", "type": "rep"}
+{"name": "Rick W. Allen", "phone": "202-225-2823", "bioguide_id": "A000372", "state": "GA", "party": "Republican", "type": "rep"}
+{"name": "Rod Blum", "phone": "202-225-2911", "bioguide_id": "B001294", "state": "IA", "party": "Republican", "type": "rep"}
+{"name": "David Young", "phone": "202-225-5476", "bioguide_id": "Y000066", "state": "IA", "party": "Republican", "type": "rep"}
+{"name": "Mike Bost", "phone": "202-225-5661", "bioguide_id": "B001295", "state": "IL", "party": "Republican", "type": "rep"}
+{"name": "Ralph Lee Abraham", "phone": "202-225-8490", "bioguide_id": "A000374", "state": "LA", "party": "Republican", "type": "rep"}
+{"name": "Garret Graves", "phone": "202-225-3901", "bioguide_id": "G000577", "state": "LA", "party": "Republican", "type": "rep"}
+{"name": "Seth Moulton", "phone": "202-225-8020", "bioguide_id": "M001196", "state": "MA", "party": "Democrat", "type": "rep"}
+{"name": "Bruce Poliquin", "phone": "202-225-6306", "bioguide_id": "P000611", "state": "ME", "party": "Republican", "type": "rep"}
+{"name": "John R. Moolenaar", "phone": "202-225-3561", "bioguide_id": "M001194", "state": "MI", "party": "Republican", "type": "rep"}
+{"name": "Mike Bishop", "phone": "202-225-4872", "bioguide_id": "B001293", "state": "MI", "party": "Republican", "type": "rep"}
+{"name": "David A. Trott", "phone": "202-225-8171", "bioguide_id": "T000475", "state": "MI", "party": "Republican", "type": "rep"}
+{"name": "Debbie Dingell", "phone": "202-225-4071", "bioguide_id": "D000624", "state": "MI", "party": "Democrat", "type": "rep"}
+{"name": "Brenda L. Lawrence", "phone": "202-225-5802", "bioguide_id": "L000581", "state": "MI", "party": "Democrat", "type": "rep"}
+{"name": "Tom Emmer", "phone": "202-225-2331", "bioguide_id": "E000294", "state": "MN", "party": "Republican", "type": "rep"}
+{"name": "David Rouzer", "phone": "202-225-2731", "bioguide_id": "R000603", "state": "NC", "party": "Republican", "type": "rep"}
+{"name": "Thomas MacArthur", "phone": "202-225-4765", "bioguide_id": "M001193", "state": "NJ", "party": "Republican", "type": "rep"}
+{"name": "Bonnie Watson Coleman", "phone": "202-225-5801", "bioguide_id": "W000822", "state": "NJ", "party": "Democrat", "type": "rep"}
+{"name": "Lee M. Zeldin", "phone": "202-225-3826", "bioguide_id": "Z000017", "state": "NY", "party": "Republican", "type": "rep"}
+{"name": "Kathleen M. Rice", "phone": "202-225-5516", "bioguide_id": "R000602", "state": "NY", "party": "Democrat", "type": "rep"}
+{"name": "Elise M. Stefanik", "phone": "202-225-4611", "bioguide_id": "S001196", "state": "NY", "party": "Republican", "type": "rep"}
+{"name": "John Katko", "phone": "202-225-3701", "bioguide_id": "K000386", "state": "NY", "party": "Republican", "type": "rep"}
+{"name": "Steve Russell", "phone": "202-225-2132", "bioguide_id": "R000604", "state": "OK", "party": "Republican", "type": "rep"}
+{"name": "Ryan A. Costello", "phone": "202-225-4315", "bioguide_id": "C001106", "state": "PA", "party": "Republican", "type": "rep"}
+{"name": "Brendan F. Boyle", "phone": "202-225-6111", "bioguide_id": "B001296", "state": "PA", "party": "Democrat", "type": "rep"}
+{"name": "John Ratcliffe", "phone": "202-225-6673", "bioguide_id": "R000601", "state": "TX", "party": "Republican", "type": "rep"}
+{"name": "Will Hurd", "phone": "202-225-4511", "bioguide_id": "H001073", "state": "TX", "party": "Republican", "type": "rep"}
+{"name": "Brian Babin", "phone": "202-225-1555", "bioguide_id": "B001291", "state": "TX", "party": "Republican", "type": "rep"}
+{"name": "Mia B. Love", "phone": "202-225-3011", "bioguide_id": "L000584", "state": "UT", "party": "Republican", "type": "rep"}
+{"name": "Donald S. Beyer, Jr.", "phone": "202-225-4376", "bioguide_id": "B001292", "state": "VA", "party": "Democrat", "type": "rep"}
+{"name": "Barbara Comstock", "phone": "202-225-5136", "bioguide_id": "C001105", "state": "VA", "party": "Republican", "type": "rep"}
+{"name": "Stacey E. Plaskett", "phone": "202-225-1790", "bioguide_id": "P000610", "state": "VI", "party": "Democrat", "type": "rep"}
+{"name": "Dan Newhouse", "phone": "202-225-5816", "bioguide_id": "N000189", "state": "WA", "party": "Republican", "type": "rep"}
+{"name": "Glenn Grothman", "phone": "202-225-2476", "bioguide_id": "G000576", "state": "WI", "party": "Republican", "type": "rep"}
+{"name": "Alexander X. Mooney", "phone": "202-225-2711", "bioguide_id": "M001195", "state": "WV", "party": "Republican", "type": "rep"}
+{"name": "Evan H. Jenkins", "phone": "202-225-3452", "bioguide_id": "J000297", "state": "WV", "party": "Republican", "type": "rep"}
+{"name": "Aumua Amata Coleman Radewagen", "phone": "202-225-8577", "bioguide_id": "R000600", "state": "AS", "party": "Republican", "type": "rep"}
+{"name": "Dan Sullivan", "phone": "202-224-3004", "bioguide_id": "S001198", "state": "AK", "party": "Republican", "type": "sen"}
+{"name": "David Perdue", "phone": "202-224-3521", "bioguide_id": "P000612", "state": "GA", "party": "Republican", "type": "sen"}
+{"name": "Joni Ernst", "phone": "202-224-3254", "bioguide_id": "E000295", "state": "IA", "party": "Republican", "type": "sen"}
+{"name": "Thom Tillis", "phone": "202-224-6342", "bioguide_id": "T000476", "state": "NC", "party": "Republican", "type": "sen"}
+{"name": "Mike Rounds", "phone": "202-224-5842", "bioguide_id": "R000605", "state": "SD", "party": "Republican", "type": "sen"}
+{"name": "Mark Walker", "phone": "202-225-3065", "bioguide_id": "W000819", "state": "NC", "party": "Republican", "type": "rep"}
+{"name": "Ben Sasse", "phone": "202-224-4224", "bioguide_id": "S001197", "state": "NE", "party": "Republican", "type": "sen"}
+{"name": "Daniel M. Donovan, Jr.", "phone": "202-225-3371", "bioguide_id": "D000625", "state": "NY", "party": "Republican", "type": "rep"}
+{"name": "Trent Kelly", "phone": "202-225-4306", "bioguide_id": "K000388", "state": "MS", "party": "Republican", "type": "rep"}
+{"name": "Darin LaHood", "phone": "202-225-6201", "bioguide_id": "L000585", "state": "IL", "party": "Republican", "type": "rep"}
+{"name": "Warren Davidson", "phone": "202-225-6205", "bioguide_id": "D000626", "state": "OH", "party": "Republican", "type": "rep"}
+{"name": "Colleen Hanabusa", "phone": "202-225-2726", "bioguide_id": "H001050", "state": "HI", "party": "Democrat", "type": "rep"}
+{"name": "James Comer", "phone": "202-225-3115", "bioguide_id": "C001108", "state": "KY", "party": "Republican", "type": "rep"}
+{"name": "Dwight Evans", "phone": "202-225-4001", "bioguide_id": "E000296", "state": "PA", "party": "Democrat", "type": "rep"}
+{"name": "Kamala D. Harris", "phone": "202-224-3553", "bioguide_id": "H001075", "state": "CA", "party": "Democrat", "type": "sen"}
+{"name": "John Kennedy", "phone": "202-224-4623", "bioguide_id": "K000393", "state": "LA", "party": "Republican", "type": "sen"}
+{"name": "Margaret Wood Hassan", "phone": "202-224-3324", "bioguide_id": "H001076", "state": "NH", "party": "Democrat", "type": "sen"}
+{"name": "Catherine Cortez Masto", "phone": "202-224-3542", "bioguide_id": "C001113", "state": "NV", "party": "Democrat", "type": "sen"}
+{"name": "Bradley Scott Schneider", "phone": "202-225-4835", "bioguide_id": "S001190", "state": "IL", "party": "Democrat", "type": "rep"}
+{"name": "Carol Shea-Porter", "phone": "202-225-5456", "bioguide_id": "S001170", "state": "NH", "party": "Democrat", "type": "rep"}
+{"name": "Tom O'Halleran", "phone": "202-225-3361", "bioguide_id": "O000171", "state": "AZ", "party": "Democrat", "type": "rep"}
+{"name": "Andy Biggs", "phone": "202-225-2635", "bioguide_id": "B001302", "state": "AZ", "party": "Republican", "type": "rep"}
+{"name": "Ro Khanna", "phone": "202-225-2631", "bioguide_id": "K000389", "state": "CA", "party": "Democrat", "type": "rep"}
+{"name": "Jimmy Panetta", "phone": "202-225-2861", "bioguide_id": "P000613", "state": "CA", "party": "Democrat", "type": "rep"}
+{"name": "Salud O. Carbajal", "phone": "202-225-3601", "bioguide_id": "C001112", "state": "CA", "party": "Democrat", "type": "rep"}
+{"name": "Nanette Diaz Barrag\u00e1n", "phone": "202-225-8220", "bioguide_id": "B001300", "state": "CA", "party": "Democrat", "type": "rep"}
+{"name": "J. Luis Correa", "phone": "202-225-2965", "bioguide_id": "C001110", "state": "CA", "party": "Democrat", "type": "rep"}
+{"name": "Lisa Blunt Rochester", "phone": "202-225-4165", "bioguide_id": "B001303", "state": "DE", "party": "Democrat", "type": "rep"}
+{"name": "Matt Gaetz", "phone": "202-225-4136", "bioguide_id": "G000578", "state": "FL", "party": "Republican", "type": "rep"}
+{"name": "Neal P. Dunn", "phone": "202-225-5235", "bioguide_id": "D000628", "state": "FL", "party": "Republican", "type": "rep"}
+{"name": "John H. Rutherford", "phone": "202-225-2501", "bioguide_id": "R000609", "state": "FL", "party": "Republican", "type": "rep"}
+{"name": "Al Lawson, Jr.", "phone": "202-225-0123", "bioguide_id": "L000586", "state": "FL", "party": "Democrat", "type": "rep"}
+{"name": "Stephanie N. Murphy", "phone": "202-225-4035", "bioguide_id": "M001202", "state": "FL", "party": "Democrat", "type": "rep"}
+{"name": "Darren Soto", "phone": "202-225-9889", "bioguide_id": "S001200", "state": "FL", "party": "Democrat", "type": "rep"}
+{"name": "Val Butler Demings", "phone": "202-225-2176", "bioguide_id": "D000627", "state": "FL", "party": "Democrat", "type": "rep"}
+{"name": "Charlie Crist", "phone": "202-225-5961", "bioguide_id": "C001111", "state": "FL", "party": "Democrat", "type": "rep"}
+{"name": "Brian J. Mast", "phone": "202-225-3026", "bioguide_id": "M001199", "state": "FL", "party": "Republican", "type": "rep"}
+{"name": "Francis Rooney", "phone": "202-225-2536", "bioguide_id": "R000607", "state": "FL", "party": "Republican", "type": "rep"}
+{"name": "A. Drew Ferguson IV", "phone": "202-225-5901", "bioguide_id": "F000465", "state": "GA", "party": "Republican", "type": "rep"}
+{"name": "Raja Krishnamoorthi", "phone": "202-225-3711", "bioguide_id": "K000391", "state": "IL", "party": "Democrat", "type": "rep"}
+{"name": "Jim Banks", "phone": "202-225-4436", "bioguide_id": "B001299", "state": "IN", "party": "Republican", "type": "rep"}
+{"name": "Trey Hollingsworth", "phone": "202-225-5315", "bioguide_id": "H001074", "state": "IN", "party": "Republican", "type": "rep"}
+{"name": "Roger W. Marshall", "phone": "202-225-2715", "bioguide_id": "M001198", "state": "KS", "party": "Republican", "type": "rep"}
+{"name": "Clay Higgins", "phone": "202-225-2031", "bioguide_id": "H001077", "state": "LA", "party": "Republican", "type": "rep"}
+{"name": "Mike Johnson", "phone": "202-225-2777", "bioguide_id": "J000299", "state": "LA", "party": "Republican", "type": "rep"}
+{"name": "Anthony G. Brown", "phone": "202-225-8699", "bioguide_id": "B001304", "state": "MD", "party": "Democrat", "type": "rep"}
+{"name": "Jamie Raskin", "phone": "202-225-5341", "bioguide_id": "R000606", "state": "MD", "party": "Democrat", "type": "rep"}
+{"name": "Jack Bergman", "phone": "202-225-4735", "bioguide_id": "B001301", "state": "MI", "party": "Republican", "type": "rep"}
+{"name": "Paul Mitchell", "phone": "202-225-2106", "bioguide_id": "M001201", "state": "MI", "party": "Republican", "type": "rep"}
+{"name": "Jason Lewis", "phone": "202-225-2271", "bioguide_id": "L000587", "state": "MN", "party": "Republican", "type": "rep"}
+{"name": "Ted Budd", "phone": "202-225-4531", "bioguide_id": "B001305", "state": "NC", "party": "Republican", "type": "rep"}
+{"name": "Don Bacon", "phone": "202-225-4155", "bioguide_id": "B001298", "state": "NE", "party": "Republican", "type": "rep"}
+{"name": "Josh Gottheimer", "phone": "202-225-4465", "bioguide_id": "G000583", "state": "NJ", "party": "Democrat", "type": "rep"}
+{"name": "Jacky Rosen", "phone": "202-225-3252", "bioguide_id": "R000608", "state": "NV", "party": "Democrat", "type": "rep"}
+{"name": "Ruben Kihuen", "phone": "202-225-9894", "bioguide_id": "K000390", "state": "NV", "party": "Democrat", "type": "rep"}
+{"name": "Thomas R. Suozzi", "phone": "202-225-3335", "bioguide_id": "S001201", "state": "NY", "party": "Democrat", "type": "rep"}
+{"name": "Adriano Espaillat", "phone": "202-225-4365", "bioguide_id": "E000297", "state": "NY", "party": "Democrat", "type": "rep"}
+{"name": "John J. Faso", "phone": "202-225-5614", "bioguide_id": "F000464", "state": "NY", "party": "Republican", "type": "rep"}
+{"name": "Claudia Tenney", "phone": "202-225-3665", "bioguide_id": "T000478", "state": "NY", "party": "Republican", "type": "rep"}
+{"name": "Brian K. Fitzpatrick", "phone": "202-225-4276", "bioguide_id": "F000466", "state": "PA", "party": "Republican", "type": "rep"}
+{"name": "Lloyd Smucker", "phone": "202-225-2411", "bioguide_id": "S001199", "state": "PA", "party": "Republican", "type": "rep"}
+{"name": "Jenniffer Gonz\u00e1lez-Col\u00f3n", "phone": "202-225-2615", "bioguide_id": "G000582", "state": "PR", "party": "Republican", "type": "rep"}
+{"name": "David Kustoff", "phone": "202-225-4714", "bioguide_id": "K000392", "state": "TN", "party": "Republican", "type": "rep"}
+{"name": "Vicente Gonzalez", "phone": "202-225-2531", "bioguide_id": "G000581", "state": "TX", "party": "Democrat", "type": "rep"}
+{"name": "Jodey C. Arrington", "phone": "202-225-4005", "bioguide_id": "A000375", "state": "TX", "party": "Republican", "type": "rep"}
+{"name": "Scott Taylor", "phone": "202-225-4215", "bioguide_id": "T000477", "state": "VA", "party": "Republican", "type": "rep"}
+{"name": "A. Donald McEachin", "phone": "202-225-6365", "bioguide_id": "M001200", "state": "VA", "party": "Democrat", "type": "rep"}
+{"name": "Thomas A. Garrett, Jr.", "phone": "202-225-4711", "bioguide_id": "G000580", "state": "VA", "party": "Republican", "type": "rep"}
+{"name": "Pramila Jayapal", "phone": "202-225-3106", "bioguide_id": "J000298", "state": "WA", "party": "Democrat", "type": "rep"}
+{"name": "Mike Gallagher", "phone": "202-225-5665", "bioguide_id": "G000579", "state": "WI", "party": "Republican", "type": "rep"}
+{"name": "Liz Cheney", "phone": "202-225-2311", "bioguide_id": "C001109", "state": "WY", "party": "Republican", "type": "rep"}
+{"name": "Luther Strange", "phone": "202-224-4124", "bioguide_id": "S001202", "state": "AL", "party": "Republican", "type": "sen"}
