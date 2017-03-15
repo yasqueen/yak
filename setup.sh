@@ -23,7 +23,7 @@ source yakenv/bin/activate
 pip install -r requirements.txt
 
 # Copy conf files
-cp yak.conf /etc/init/
+cp yak.service /etc/systemd/system/
 cp yak.ini /etc/yak/
 
 # Nginx set up

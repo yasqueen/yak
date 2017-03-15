@@ -1,0 +1,13 @@
+[Unit]
+Description=uWSGI instance to serve yak
+After=network.target
+
+[Service]
+User=ariel
+Group=www-data
+WorkingDirectory=/home/ariel/yak
+Environment="PATH=/home/ariel/yak/yakenv/bin"
+ExecStart=/home/ariel/yak/yakenv/bin/uwsgi --ini yak.ini
+
+[Install]
+WantedBy=multi-user.target
