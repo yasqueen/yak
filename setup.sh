@@ -18,6 +18,7 @@ mkdir /etc/yak
 
 # Virtualenv
 virtualenv yakenv
+chown -R ariel:ariel yakenv
 source yakenv/bin/activate
 pip install -r requirements.txt
 
