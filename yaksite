@@ -1,11 +1,9 @@
 server {
-    listen 80 default_server;
-
-    # Make site accessible from http://localhost/
-    server_name 45.55.183.93;
+    listen 80;
+    server_name 104.131.116.136;
 
     location / {
-        include            uwsgi_params;
-        uwsgi_pass         unix:/var/run/yak/yak.sock;
+        include uwsgi_params;
+        uwsgi_pass unix:/home/ariel/yak/yak.sock;
     }
 }
