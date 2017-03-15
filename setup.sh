@@ -1,6 +1,6 @@
 #!/bin/sh
 
-apt-get install python-dev python-pip nginx
+apt-get install python-dev python-pip nginx upstart
 pip install --upgrade pip
 pip install virtualenv uwsgi
 
