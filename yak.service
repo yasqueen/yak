@@ -6,7 +6,7 @@ After=network.target
 User=ariel
 Group=www-data
 WorkingDirectory=/home/ariel/yak
-Environment="PATH=/home/ariel/yak/yakenv/bin"
+EnvironmentFile=/home/ariel/yak/.env
 ExecStart=/home/ariel/yak/yakenv/bin/uwsgi --ini yak.ini
 
 [Install]
